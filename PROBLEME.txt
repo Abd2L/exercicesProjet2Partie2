@@ -1,0 +1,8 @@
+1 L'exercie demande à ce qu'on ajoute 2 autres fichier de mon choix, j'ai tenté l'ajout via Terminal avec la fonction "cp" pour copier.
+2 Le fichier était un .jpg avec la commande:
+    (j'étais dans le repertoire du fichier source)
+    cp fichier.jpg /exercicesProjet2Partie2/
+    Resultat "Permission denied"
+    j'ai essayé avec la commande sudo.. cet fois pas de reponse.
+    puis avec sudo et l'option -f.
+    pas de reponse.
